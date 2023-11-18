@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hello there 👋
+
+I'm a software developer with interest in all things backend. I like to experiment with different frameworks and languages, currently focusing on,
+- 🦫 go 
+- 💻 node.js 
+- 🐍 python 
+
+Additionally, I'm also well versed with DevOps tech - CI/CD pipelines, Jenkins, Kubernetes (k8s) and beyond. 🚀  
+If you want something developed and deployed to production, I'm the right person to reach.
 
 <!--
 **nih13/nih13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
